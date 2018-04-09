@@ -1,0 +1,28 @@
+{
+  "GameKeys": {
+    "KL1": 90,
+    "KL2": 88,
+    "KL3": 190,
+    "KL4": 191,
+    "MusicVolumeUp": 38,
+    "MusicVolumeDown": 40,
+    "SFXVolumeUp": 39,
+    "SFXVolumeDown": 40,
+    "BeatmapMusicBPMUp": 113,
+    "BeatmapMusicBPMDown": 112,
+    "BeatmapScrollingSpeedUp": 115,
+    "BeatmapScrollingSpeedDown": 114,
+    "BeatmapRestart": 192
+  },
+  "WindowWidth": 1280,
+  "WindowHeight": 720,
+  "IsFullscreen": false,
+  "IsUsedVSync": false,
+  "TargetFramesPerSecond": 240,
+  "IsReversedDirection": false,
+  "HitsoundVolume": 100,
+  "SongVolume": 100,
+  "ScrollingSpeed": 21,
+  "Skin": "Test",
+  "BeatmapFolder": "Maps"
+}

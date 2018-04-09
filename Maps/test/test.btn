@@ -1,0 +1,28 @@
+{
+  "Settings": {
+    "General": {
+      "AudioFileName": "BrainPower.mp3",
+      "PreviewTime": 1234,
+      "BackgroundFileName": "bg.png"
+    },
+    "Editor": {
+      "BeatDivisor": 4
+    },
+    "Metadata": {
+      "Title": "Brain Power",
+      "Artist": "NOMA",
+      "Creator": "loonacuse",
+      "Version": "test version",
+      "Tags": "there are tags",
+      "BeatmapId": 1,
+      "BeatmapSetId": 1
+    },
+    "Difficulty": {
+      "HpDrainRate": 4.0,
+      "OverallDifficutly": 10,
+      "KeyAmount": 4
+    },
+    "TimingPointsFilename": "timing_points",
+    "HitObjectsFilename": "hit_objects"
+  }
+}
