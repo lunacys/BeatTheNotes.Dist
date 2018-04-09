@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains all the neccessary files to start playing BeatTheNotes.
+This repo contains all the necessary files to start playing BeatTheNotes.
 
 ## Directories description
 
